@@ -1,5 +1,12 @@
 package com.scripts.ActiTIME;
 
-public class Test1 {
+import org.testng.annotations.Test;
 
+public class Test1 
+{
+  @Test
+  public void abc()
+  {
+	  System.out.println("ab");
+  }
 }
