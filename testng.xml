@@ -4,7 +4,6 @@
   <test name="Test">
     <classes>
       <class name="com.scripts.ActiTIME.Test3"/>
-      <class name="com.scripts.ActiTIME.Test1"/>
       <class name="com.scripts.ActiTIME.Test2"/>
       <class name="com.scripts.ActiTIME.TESTActitimeLogin"/>
     </classes>
